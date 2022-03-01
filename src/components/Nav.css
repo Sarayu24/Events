@@ -1,0 +1,26 @@
+.Nav {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 20px 0;
+    background-color: #395B64; 
+   opacity: 90%;
+   font-size: 20px;
+  }
+
+ .Nav li {
+    display: inline;
+    margin:20px 15px;
+  }
+
+  .Nav li a {
+  
+    color: white;
+    text-align: center;
+    text-decoration: none;
+  }
+  .Nav a:hover{
+    cursor: pointer;
+    box-shadow: 0px 0px 9px 2px #2666CF; 
+    padding: 10px;
+}

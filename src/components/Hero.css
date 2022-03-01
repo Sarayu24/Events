@@ -1,0 +1,37 @@
+.Hero_section{
+margin:25px 0px 50px 0px;
+padding-top: 60px;
+padding-bottom: 25px;
+}
+
+.title{
+
+  font-size: 50px;
+  margin-bottom: 60px;
+}
+
+.Hero_section p{
+
+  font-size: 25px;
+}
+
+.hero_btn {
+    color: #2666CF;
+    margin-top:65px;
+    padding: 0.7em 1.7em;
+    font-size: 18px;
+    border-radius: 0.5em;
+    background: #a2d1f0;
+    border: none;
+    transition: all .3s;
+     box-shadow: -6px -6px 12px #ffffff; 
+    
+   }
+   
+   .hero_btn:hover {
+   
+    cursor: pointer;
+    box-shadow: 6px 6px 12px #c5c5c5
+                ;
+   }
+    
